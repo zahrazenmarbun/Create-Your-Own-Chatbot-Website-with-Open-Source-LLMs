@@ -1,7 +1,7 @@
 # Proyek pertama Stupen
 
 judul:
-###Create Your Own Chatbot Website with Open Source LLMs
+### Create Your Own Chatbot Website with Open Source LLMs
 
 perangkat lunak:
 
@@ -10,6 +10,6 @@ perangkat lunak:
 *2.Jupyter*
 
 Nama: **Zahra**
-#23:16
+
 
 
